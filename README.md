@@ -13,7 +13,7 @@
 
 ## Idlifetch
 
-![preview](img/normal_idlifetch)
+![preview](img/normal_idlifetch.png)
 
 ## Config
 
