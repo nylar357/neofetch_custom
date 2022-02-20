@@ -5,8 +5,23 @@
 
 
 
+### Custom Neofetch Configs
 
+##  TallJoe
 
+![preview](img/talljoe.png)
+
+## Idlifetch
+
+![preview](img/normal_idlifetch)
+
+## Config
+
+![preview](img/normal_talljoe.png)
+
+## Config2
+
+![preview](img/normal_config2.png)
 
 
 ### Some great ascii art put together that all work great for neofetch
@@ -31,3 +46,4 @@
 ## Ghost
 
 ![prevuew](img/ghost.png)
+
