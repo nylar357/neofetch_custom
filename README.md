@@ -8,45 +8,45 @@
 
 
 
-### Custom Neofetch Configs
+# Custom Neofetch Configs
 
-##  TallJoe
+-TallJoe-
 
 ![preview](img/talljoe.png)
 
-## Idlifetch
+-Idlifetch-
 
 ![preview](img/normal_idlifetch.png)
 
-## Config
+-Config-
 
 ![preview](img/normal_talljoe.png)
 
-## Config2
+-Config2-
 
 ![preview](img/normal_config2.png)
 
 
 ### Some great ascii art put together that all work great for neofetch
 
-## Wall
+-Wall-
 
 ![prevuew](img/wall.png)
-## Sword
+-Sword-
 
 ![prevuew](img/sword.png)
-## Skull
+-Skull-
 
 ![prevuew](img/skull.png)
-## Haxe
+-Haxe-
 
 ![prevuew](img/haxe.png)
 
-## Hi!
+-Hi!-
 
 ![prevuew](img/hi!.png)
 
-## Ghost
+-Ghost-
 
 ![prevuew](img/ghost.png)
 
