@@ -12,14 +12,14 @@
 ### Some great ascii art put together that all work great for neofetch
 
 - Wall
-![prevuew](img/wall.png)
+    ![prevuew](img/wall.png)
 - Sword
-![prevuew](img/sword.png)
+    ![prevuew](img/sword.png)
 - Skull
-![prevuew](img/skull.png)
+    ![prevuew](img/skull.png)
 - Haxe
-![prevuew](img/haxe.png)
+    ![prevuew](img/haxe.png)
 - Hi!
-![prevuew](img/hi!.png)
+    ![prevuew](img/hi!.png)
 - Ghost
-![prevuew](img/ghost.png)
+    ![prevuew](img/ghost.png)
