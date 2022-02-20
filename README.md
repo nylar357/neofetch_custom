@@ -1,7 +1,10 @@
-#Neofetch_Custom -- modified config scripts for neofetch -- this is a mini conf
-#below are options available for display, I'm using some custom ascii art 
-#included the custom ascii art in the repo under ascii_art 
-# By -- 𝗇𝗒𝗅𝖺𝗋𝟥𝟧𝟩𝘓5↋ɹɐʅʎu --  2022 Feb -- github.com/nylar357/neofetch_custom.git 
+##### Neofetch_Custom -- modified config scripts for neofetch
+### Conf contains the custom neofetch configs
+### Ascii contains the custom ascii art
+
+##### USAGE 
+
+``` neofetch --config <path/to/config.conf --ascii path/to/ascii/art.txt ```
 
 
 
