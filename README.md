@@ -14,3 +14,5 @@
 
 ![prevuew](img/hi!.png)
 
+
+![prevuew](img/ghost.png)
