@@ -5,3 +5,12 @@
 
 ![prevuew](img/wall.png)
 
+![prevuew](img/sword.png)
+
+![prevuew](img/skull.png)
+
+
+![prevuew](img/haxe.png)
+
+![prevuew](img/hi!.png)
+
