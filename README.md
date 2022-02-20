@@ -32,12 +32,15 @@
 -Wall-
 
 ![prevuew](img/wall.png)
+
 -Sword-
 
 ![prevuew](img/sword.png)
+
 -Skull-
 
 ![prevuew](img/skull.png)
+
 -Haxe-
 
 ![prevuew](img/haxe.png)
