@@ -27,7 +27,7 @@
 ![preview](img/normal_config2.png)
 
 
-### Some great ascii art put together that all work great for neofetch
+# Custom Ascii Art
 
 -Wall-
 
